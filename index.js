@@ -6,7 +6,11 @@ console.log("hello from seeu")
 //2. git add remote origin
 //3.git branch -M main
 
+//we have pushed the code o main branch 
 
+const dummy = () => {
+    console.log("dummy")
+}
 
 
 
